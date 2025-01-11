@@ -1,0 +1,1 @@
+This repository demonstrates a subtle bug in Tcl's `proc` command where it silently ignores extra arguments passed to a procedure.  The `bug.tcl` file shows the issue, while `bugSolution.tcl` provides a robust solution.  The bug can lead to unexpected behavior and hard-to-debug errors in larger applications.
